@@ -1,4 +1,4 @@
-#test extraction
+#test extraction: using regular expressions to extract integers from a file and returning the sum
 import re
 
 test_data = open('test.txt')
